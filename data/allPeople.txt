@@ -1,0 +1,152 @@
+Rang:      Name:           Startnr:        Laufzeit: 
+1          Bruppacher 1    1               14:32:59 
+2          Lutz 2          4               14:38:36 
+3          Achermann       7               14:38:01 
+4          Amstein         13              14:38:39 
+5          Feusi 2         22              14:42:22 
+6          Bosshardt       28              14:33:12 
+7          Bloch           52              14:45:42 
+8          Doebeli         55              14:45:36 
+9          Meier R.        58              14:40:34 
+10         Ammann          61              14:44:54 
+11         Stauber         64              14:41:22 
+12         Bamberger       70              14:42:41 
+13         W�lfle 2        82                     
+14         Bolz            85              14:41:25 
+15         Strausak        88              14:45:48 
+16         Oberholzer      91              14:44:47 
+17         Iten 2          94              14:44:03 
+18         Vogler          103             15:22:26 
+19         Bruppacher      106             15:34:56 
+20         Enz 1           109             15:26:28 
+21         Glogg 2         112             15:35:21 
+22         Vogt            115             15:22:04 
+23         Achermann       118             15:23:24 
+24         Tiefenauer      121             15:27:53 
+25         Weber           133             15:20:57 
+26         Felzmann 2      136                    
+27         Hugentobler     139             15:23:35 
+28         Fehr            142             15:25:21 
+29         Gisler          145             15:23:18 
+30         Feusi           163             15:16:47 
+31         Temperli        166             15:23:10 
+32         Spillmann 1     169             15:21:09 
+33         Senft 2         172             15:30:15 
+34         Amschwand 2     175             15:24:34 
+35         Haupt           178             15:24:37 
+36         Merotto         181             15:25:28 
+37         Weinmann 1      202             16:20:10 
+38         Bloch           205             16:22:17 
+39         Lauener         208             16:26:44 
+40         Naef            211             16:27:41 
+41         Jost            214             16:30:58 
+42         Boegli          223             16:30:25 
+43         Inderbitzin 3   226             16:23:11 
+44         Ammann          229             16:23:56 
+45         Liebi           232             16:17:14 
+46         Boller 2        235             16:23:17 
+47         Camenzind       238             16:20:00 
+48         Trottmann 2     241             16:27:56 
+49         Togni           253             16:21:57 
+50         Zehnder         256             16:31:20 
+51         Brechb�hl       259             16:20:03 
+52         Reolon 2        262             16:15:44 
+53         K�nzler         265             16:20:24 
+54         Oberholzer      268             16:18:59 
+55         Bruppacher 2    2               14:34:59 
+56         Haas            5               14:35:48 
+57         Pfammatter      8               14:36:51 
+58         G�hwiler        11                     
+59         Arnold          14              14:31:29 
+60         Temperli        23              14:30:36 
+61         Arnold          26              14:34:38 
+62         Merotto         29              14:38:52 
+63         Frei            53              14:44:59 
+64         Stauber         56              14:46:03 
+65         Le Pape         62              14:38:49 
+66         Donze           65              14:40:09 
+67         Murer           71              14:40:16 
+68         Leuch           83              14:51:52 
+69         Mattli          86              14:39:53 
+70         Kober           92              14:41:10 
+71         Hutter          101             15:20:34 
+72         Tobler 1        104             15:25:08 
+73         Lutz            107             15:25:06 
+74         Enz 2           110             15:33:31 
+75         Haas            113             15:26:22 
+76         Ender 1         116             15:24:22 
+77         Hirzel 1        119             15:24:32 
+78         Pfammatter      122             15:26:20 
+79         G�hwiler        131             15:24:19 
+80         Bucher          134             15:21:19 
+81         H�ssig 1        137             15:21:14 
+82         M�ller          140             15:21:05 
+83         Blaser 1        143             15:23:54 
+84         Bachmann        146             15:18:24 
+85         Stehli          161             15:27:21 
+86         H�uselmann      164             15:20:22 
+87         Trottmann 1     167             15:19:13 
+88         Spillmann 2     170             15:24:28 
+89         Stoll           173             15:23:49 
+90         Rebsamen        176             15:15:15 
+91         Gallmann        179             15:30:30 
+92         Bosshardt       182             15:33:23 
+93         Weinmann 2      203             16:39:01 
+94         Doebeli         206             16:35:58 
+95         Loosli 1        209             16:20:23 
+96         Heller          212             16:26:53 
+97         Winkler         221             16:21:00 
+98         Inderbitzin 1   224             16:19:36 
+99         Niggli 1        227             16:26:42 
+100        Leutenegger 1   230             16:21:03 
+101        Blust           233             16:25:36 
+102        Eckard          236             16:15:49 
+103        M�ller          239             16:17:58 
+104        Brubpacher 1    242             16:27:37 
+105        Clavadetscher   254             16:16:28 
+106        Zeller 1        257             16:18:16 
+107        Jakob           260             16:21:30 
+108        Reolon 3        263             16:26:11 
+109        Kober           269             16:19:13 
+110        Lutz 1          3               14:40:29 
+111        Vogt            6               14:36:41 
+112        Bucher          12              14:33:04 
+113        Fehr            15              14:32:14 
+114        Feusi 1         21              14:37:00 
+115        Stoll           24              14:33:18 
+116        Spreng          27              14:32:54 
+117        Zehntner        51              14:39:22 
+118        Lauener         54              14:47:44 
+119        Bagattini       57              14:45:19 
+120        Liebi           63              14:44:07 
+121        Boller          66              14:51:11 
+122        Engler          69              14:38:21 
+123        W�lfle 1        81              14:37:28 
+124        Zehnder         84              14:39:27 
+125        R�tschi         87              14:39:19 
+126        Bernhard        90              14:40:02 
+127        Iten 1          93              14:41:20 
+128        Bochsler        102             15:26:31 
+129        Tobler 2        105             15:29:35 
+130        Glogg 1         111             15:27:51 
+131        Boller          114             15:23:28 
+132        Ender 2         117             15:34:42 
+133        Hirzel 2        120             15:33:13 
+134        Wietlisbach     123             15:22:06 
+135        Neuer           132             15:19:35 
+136        Felzmann 1      135             15:27:38 
+137        H�ssig 2        138             15:27:36 
+138        Amstein         141             15:24:03 
+139        Blaser 2        144             15:29:17 
+140        Huber           162             15:19:15 
+141        Pongracz        165             15:16:44 
+142        Trottmann 2     168             15:25:27 
+143        Senft 1         171             15:17:32 
+144        Amschwand 1     174             15:17:09 
+145        Baumgartner     177             15:18:14 
+146        Huber           180             15:26:19 
+147        Spreng          183             15:18:08 
+148        Kohler          201             16:29:07 
+149        Zehntner        204             16:28:26 
+150        Frei            207             16:23:22 
+151        Loosli 2

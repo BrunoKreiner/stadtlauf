@@ -1,0 +1,173 @@
+Startnr	Name                Kategorie	Rang	Laufzeit
+========================================================
+
+118    	Achermann                   2	  24	 1:08:24
+7      	Achermann                   1	  16	 0:38:01
+61     	Ammann                      1	  40	 0:44:54
+229    	Ammann                      3	  33	 1:23:56
+174    	Amschwand 1                 2	   4	 1:02:09
+175    	Amschwand 2                 2	  34	 1:09:34
+141    	Amstein                     2	  29	 1:09:03
+13     	Amstein                     1	  19	 0:38:39
+14     	Arnold                      1	   2	 0:31:29
+26     	Arnold                      1	   9	 0:34:38
+146    	Bachmann                    2	   8	 1:03:24
+213    	Bagattini                   3	  16	 1:19:40
+57     	Bagattini                   1	  42	 0:45:19
+70     	Bamberger                   1	  36	 0:42:41
+177    	Baumgartner                 2	   7	 1:03:14
+90     	Bernhard                    1	  26	 0:40:02
+143    	Blaser 1                    2	  28	 1:08:54
+144    	Blaser 2                    2	  51	 1:14:17
+52     	Bloch                       1	  44	 0:45:42
+205    	Bloch                       3	  27	 1:22:17
+233    	Blust                       3	  37	 1:25:36
+102    	Bochsler                    2	  45	 1:11:31
+223    	Boegli                      3	  49	 1:30:25
+114    	Boller                      2	  25	 1:08:28
+66     	Boller                      1	  48	 0:51:11
+234    	Boller 1                    3	  36	 1:24:08
+235    	Boller 2                    3	  30	 1:23:17
+85     	Bolz                        1	  34	 0:41:25
+182    	Bosshardt                   2	  56	 1:18:23
+28     	Bosshardt                   1	   7	 0:33:12
+259    	Brechbühl                   3	  19	 1:20:03
+242    	Brubpacher 1                3	  43	 1:27:37
+243    	Brubpacher 2                3	  14	 1:19:25
+106    	Bruppacher                  2	  59	 1:19:56
+1      	Bruppacher 1                1	   5	 0:32:59
+2      	Bruppacher 2                1	  10	 0:34:59
+134    	Bucher                      2	  18	 1:06:19
+12     	Bucher                      1	   6	 0:33:04
+238    	Camenzind                   3	  18	 1:20:00
+254    	Clavadetscher               3	   4	 1:16:28
+55     	Doebeli                     1	  43	 0:45:36
+206    	Doebeli                     3	  53	 1:35:58
+65     	Donze                       1	  27	 0:40:09
+236    	Eckard                      3	   3	 1:15:49
+264    	Ehrismann                   3	   0	 0:00:00
+116    	Ender 1                     2	  31	 1:09:22
+117    	Ender 2                     2	  58	 1:19:42
+69     	Engler                      1	  17	 0:38:21
+109    	Enz 1                       2	  44	 1:11:28
+110    	Enz 2                       2	  57	 1:18:31
+15     	Fehr                        1	   3	 0:32:14
+142    	Fehr                        2	  38	 1:10:21
+135    	Felzmann 1                  2	  48	 1:12:38
+136    	Felzmann 2                  2	   0	 0:00:00
+163    	Feusi                       2	   3	 1:01:47
+21     	Feusi 1                     1	  14	 0:37:00
+22     	Feusi 2                     1	  35	 0:42:22
+207    	Frei                        3	  31	 1:23:22
+53     	Frei                        1	  41	 0:44:59
+11     	Gähwiler                    1	   0	 0:00:00
+131    	Gähwiler                    2	  30	 1:09:19
+179    	Gallmann                    2	  54	 1:15:30
+145    	Gisler                      2	  23	 1:08:18
+111    	Glogg 1                     2	  49	 1:12:51
+112    	Glogg 2                     2	  60	 1:20:21
+137    	Hässig 1                    2	  17	 1:06:14
+138    	Hässig 2                    2	  47	 1:12:36
+164    	Häuselmann                  2	  12	 1:05:22
+113    	Haas                        2	  43	 1:11:22
+5      	Haas                        1	  11	 0:35:48
+178    	Haupt                       2	  35	 1:09:37
+212    	Heller                      3	  42	 1:26:53
+119    	Hirzel 1                    2	  33	 1:09:32
+120    	Hirzel 2                    2	  55	 1:18:13
+162    	Huber                       2	  10	 1:04:15
+180    	Huber                       2	  41	 1:11:19
+139    	Hugentobler                 2	  26	 1:08:35
+101    	Hutter                      2	  13	 1:05:34
+224    	Inderbitzin 1               3	  15	 1:19:36
+225    	Inderbitzin 2               3	  28	 1:22:23
+226    	Inderbitzin 3               3	  29	 1:23:11
+93     	Iten 1                      1	  32	 0:41:20
+94     	Iten 2                      1	  37	 0:44:03
+260    	Jakob                       3	  25	 1:21:30
+214    	Jost                        3	  50	 1:30:58
+265    	Künzler                     3	  22	 1:20:24
+92     	Kober                       1	  31	 0:41:10
+269    	Kober                       3	  13	 1:19:13
+201    	Kohler                      3	  48	 1:29:07
+54     	Lauener                     1	  47	 0:47:44
+208    	Lauener                     3	  41	 1:26:44
+222    	Lauffer                     3	  47	 1:28:59
+62     	Le Pape                     1	  20	 0:38:49
+83     	Leuch                       1	  49	 0:51:52
+255    	Leuch                       3	  17	 1:19:53
+230    	Leutenegger 1               3	  24	 1:21:03
+231    	Leutenegger 2               3	  55	 1:39:32
+232    	Liebi                       3	   5	 1:17:14
+63     	Liebi                       1	  38	 0:44:07
+209    	Loosli 1                    3	  21	 1:20:23
+210    	Loosli 2                    3	  51	 1:31:12
+107    	Lutz                        2	  36	 1:10:06
+3      	Lutz 1                      1	  29	 0:40:29
+4      	Lutz 2                      1	  18	 0:38:36
+140    	Müller                      2	  15	 1:06:05
+239    	Müller                      3	   9	 1:17:58
+86     	Mattli                      1	  25	 0:39:53
+58     	Meier R.                    1	  30	 0:40:34
+216    	Meier W.                    3	  32	 1:23:35
+29     	Merotto                     1	  21	 0:38:52
+181    	Merotto                     2	  40	 1:10:28
+71     	Murer                       1	  28	 0:40:16
+211    	Naef                        3	  44	 1:27:41
+132    	Neuer                       2	  11	 1:04:35
+227    	Niggli 1                    3	  40	 1:26:42
+228    	Niggli 2                    3	  56	 1:41:12
+268    	Oberholzer                  3	  12	 1:18:59
+91     	Oberholzer                  1	  39	 0:44:47
+8      	Pfammatter                  1	  13	 0:36:51
+122    	Pfammatter                  2	  42	 1:11:20
+165    	Pongracz                    2	   2	 1:01:44
+87     	Rütschi                     1	  22	 0:39:19
+176    	Rebsamen                    2	   1	 1:00:15
+261    	Reolon 1                    3	   2	 1:15:45
+262    	Reolon 2                    3	   1	 1:15:44
+263    	Reolon 3                    3	  39	 1:26:11
+237    	Schneebeli                  3	   0	 0:00:00
+171    	Senft 1                     2	   5	 1:02:32
+172    	Senft 2                     2	  53	 1:15:15
+169    	Spillmann 1                 2	  16	 1:06:09
+170    	Spillmann 2                 2	  32	 1:09:28
+27     	Spreng                      1	   4	 0:32:54
+183    	Spreng                      2	   6	 1:03:08
+252    	Stalder                     3	  38	 1:26:08
+64     	Stauber                     1	  33	 0:41:22
+56     	Stauber                     1	  46	 0:46:03
+161    	Stehli                      2	  46	 1:12:21
+24     	Stoll                       1	   8	 0:33:18
+173    	Stoll                       2	  27	 1:08:49
+88     	Strausak                    1	  45	 0:45:48
+23     	Temperli                    1	   1	 0:30:36
+166    	Temperli                    2	  22	 1:08:10
+121    	Tiefenauer                  2	  50	 1:12:53
+104    	Tobler 1                    2	  37	 1:10:08
+105    	Tobler 2                    2	  52	 1:14:35
+253    	Togni                       3	  26	 1:21:57
+167    	Trottmann 1                 2	   9	 1:04:13
+240    	Trottmann 1                 3	  11	 1:18:34
+168    	Trottmann 2                 2	  39	 1:10:27
+241    	Trottmann 2                 3	  45	 1:27:56
+103    	Vogler                      2	  21	 1:07:26
+6      	Vogt                        1	  12	 0:36:41
+115    	Vogt                        2	  19	 1:07:04
+81     	Wölfle 1                    1	  15	 0:37:28
+82     	Wölfle 2                    1	   0	 0:00:00
+133    	Weber                       2	  14	 1:05:57
+202    	Weinmann 1                  3	  20	 1:20:10
+203    	Weinmann 2                  3	  54	 1:39:01
+270    	Widmer                      3	   6	 1:17:16
+270    	Widmer                      3	   7	 1:17:16
+270    	Widmer                      3	   8	 1:17:16
+123    	Wietlisbach                 2	  20	 1:07:06
+221    	Winkler                     3	  23	 1:21:00
+267    	Wipf                        3	  35	 1:24:07
+84     	Zehnder                     1	  24	 0:39:27
+256    	Zehnder                     3	  52	 1:31:20
+51     	Zehntner                    1	  23	 0:39:22
+204    	Zehntner                    3	  46	 1:28:26
+257    	Zeller 1                    3	  10	 1:18:16
+258    	Zeller 2                    3	  34	 1:24:01
